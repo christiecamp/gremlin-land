@@ -14,21 +14,34 @@
 
 
 ### ![table-of-contents](./goblin-goods/branding/readme/toc.png)
-  <!-- - [OVERVIEW](#overview)
+  - [OVERVIEW](#overview)
     - [*gremlin-list*](#gremlin-list)
   - [INSTALLATION](#installation)
   - [USAGE](#usage)
     - [*demo*](#demo)
   - [SOURCES](#sources)
   - [LICENSE](#license)
-  - [LINKS](#links) -->
+  - [LINKS](#links)
   - [CONNECT](#connect)
-<!-- 
+
 ### ![overview](./goblin-goods/branding/readme/1.png)
+
+Welcome to `GREMLIN LAND` - created with [React.js](https://react.dev/), [Next.js](https://nextjs.org/), [Three.js](https://threejs.org/), and [Tailwind CSS](https://tailwindcss.com/).
 
 
 ### ![installation](./goblin-goods/branding/readme/2.png)
- -->
+
+##### *Clone the repository in your local development enviornment.*
+
+```javascript
+git clone https://github.com/christiecamp/gremlin-land.git
+```
+
+##### *Navigate to the command line and input:*
+
+```javascript
+npm i
+```
 
 #
 
