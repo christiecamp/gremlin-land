@@ -1,4 +1,7 @@
-![banner](./goblin-goods/header.png)
+<p align="center">
+<img src="./goblin-goods/branding/header.png"/>
+</p>
+
 
 [![react.js badge](https://img.shields.io/badge/react-hotpink.svg?&logo=React&logoColor=white)](https://react.dev/)
 
