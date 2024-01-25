@@ -1,13 +1,20 @@
 import React from 'react';
 import './App.module.scss';
-//base layout
-import {BrowserRouter} from 'react-router-dom';
+//importing react router dom
+import { Outlet } from 'react-router-dom';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 
-
-export default function App() {
+function App() {
   return (
-    <div>
-      <h1>Gremlin Land</h1>
-    </div>
+    <>
+      <Header />
+      <main>
+        <Outlet />
+      </main>
+      <Footer />
+    </>
   );
 }
+
+export default App;
