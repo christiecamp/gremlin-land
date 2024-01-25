@@ -1,4 +1,8 @@
 import React from 'react';
+import './App.module.scss';
+//base layout
+import {BrowserRouter} from 'react-router-dom';
+
 
 export default function App() {
   return (
