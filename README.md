@@ -28,6 +28,6 @@ coming soon!
 <img src="https://img.shields.io/badge/gmail-purple.svg?&logo=Gmail&logoColor=white" />
 </a>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.christiecamp.com"><img height= '100px' src ="./goblin-goods/branding/elements/three-gremlins.png"></a>
-</p>
+</p> -->
