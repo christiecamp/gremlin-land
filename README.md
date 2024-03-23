@@ -12,7 +12,23 @@
   <img alt="mode" src="https://img.shields.io/badge/view-darkmode-black.svg?&logo=Github&logoColor=white" >
 </p>
 
-coming soon!
+
+### ![table-of-contents](./goblin-goods/branding/readme/toc.png)
+
+  <!-- - [OVERVIEW](#overview)
+    - [*user story*](#user-story)
+    - [*acceptance criteria*](#acceptance-criteria)
+    - [*probe-list*](#borea-list)
+  - [INSTALLATION](#installation)
+  - [USAGE](#usage)
+    - [*screenshot*](#screenshot)
+    - [*demo*](#demo)
+  - [TESTING](#testing)
+  - [SOURCES](#sources)
+  - [LICENSE](#license)
+  - [LINKS](#links) -->
+  - [CONNECT](#connect)
+
 
 #
 
