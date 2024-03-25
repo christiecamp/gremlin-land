@@ -18,6 +18,7 @@
     - [*gremlin-list*](#gremlin-list)
   - [INSTALLATION](#installation)
   - [USAGE](#usage)
+    - [*screenshot*](#screenshot)
     - [*demo*](#demo)
   - [SOURCES](#sources)
   - [LICENSE](#license)
@@ -91,7 +92,7 @@ Here's a list of technologies used:
 
 ### ![connect](./goblin-goods/branding/readme/7.png)
 
-[![Github Badge](https://img.shields.io/badge/christiecamp-deeppink.svg?&logo=Github&logoColor=white)](https://github.com/christiecamp/alien-prone)
+[![github badge](https://img.shields.io/badge/christiecamp-deeppink.svg?&logo=Github&logoColor=white)](https://github.com/christiecamp/alien-prone)
 
 <a href="mailto:christiecamphoto@gmail.com">
 <img src="https://img.shields.io/badge/gmail-blue.svg?&logo=Gmail&logoColor=white" />
