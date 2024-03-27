@@ -1,5 +1,5 @@
 <p align="center">
-<img height= '400px' src="./goblin-goods/branding/readme/header.png"/>
+<img height= '300px' src="./goblin-goods/branding/readme/header.png"/>
 </p>
 
 [![react.js badge](https://img.shields.io/badge/react-hotpink.svg?&logo=React&logoColor=white)](https://react.dev/)
@@ -50,7 +50,7 @@ npm i
 
 1. Open the Integrated Terminal and follow the [installation](#installation) guidelines
 
-## ![screenshot](./goblin-goods/branding/readme/12.png)
+### ![screenshot](./goblin-goods/branding/readme/12.png)
              
 ##### *screenshot demonstrates `GREMLIN LAND's` back end and the functional application deployed on **Heroku***
 
@@ -67,6 +67,27 @@ npm i
 </p>
 
 #
+
+
+### ![sources](./goblin-goods/branding/readme/4.png)
+
+Here's a list of technologies used:
+
+1. [Node.js](https://nodejs.org/en) - is an open-source, cross-platform JavaScript runtime environment.
+
+2. [Heroku](https://heroku.com) - used to deploy, manage, and scale the application.
+
+
+### ![license](./goblin-goods/branding/readme/5.png)
+
+##### [mit license](./LICENSE)
+
+
+### ![links](./goblin-goods/branding/readme/6.png)
+
+##### [*github repo*](https://github.com/christiecamp/gremlin-land)
+
+<!-- ##### [*deployed app*]() -->
 
 ### ![connect](./goblin-goods/branding/readme/7.png)
 
