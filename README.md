@@ -50,6 +50,16 @@ npm i
 
 1. Open the Integrated Terminal and follow the [installation](#installation) guidelines
 
+## ![screenshot](./goblin-goods/branding/readme/12.png)
+             
+##### *screenshot demonstrates `GREMLIN LAND's` back end and the functional application deployed on **Heroku***
+
+<!-- <p align="center">
+<img src="./goblin-goods/demo/ss.png"/>
+</p> -->
+
+### ![demo](./goblin-goods/branding/readme/13.png)
+
 #
 
 <p align="center">
