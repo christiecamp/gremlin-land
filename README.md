@@ -42,6 +42,13 @@ git clone https://github.com/christiecamp/gremlin-land.git
 ```javascript
 npm i
 ```
+#
+
+### ![usage](./goblin-goods/branding/readme/3.png)
+
+**INSTRUCTIONS:**
+
+1. Open the Integrated Terminal and follow the [installation](#installation) guidelines
 
 #
 
